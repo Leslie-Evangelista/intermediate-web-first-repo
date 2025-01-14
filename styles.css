@@ -5,3 +5,17 @@ h1{
 body{
     background-color: lightyellow;
 }
+
+#first{
+    color:  red;
+}
+
+/* When it starts with a .name it menas it only applies to all of the same .name if it is #name it can only apply for that #name*/
+.personal{
+    color: green;
+}
+
+div{
+    background-color: purple;
+    color:aqua ;
+}
